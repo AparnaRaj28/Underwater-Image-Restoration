@@ -1,0 +1,4 @@
+# Underwater-Image-Restoration
+Underwater images often have severe quality degradation and distortion due to light absorption and scattering in the water medium.
+A hazed image formation model is widely used to restore image quality. 
+In this project, with the use of image processing algorithms, it is possible to reconstruct and enhance the image quality of underwater images in the absence of reliable and costly image acquisition systems.  We propose an effective underwater image enhancement method for the underwater image in the composition of underwater image restoration and color correction.   A fusion algorithm is proposed for the restoration and enhancement of underwater images. Color balance, contrast optimization, and histogram stretching are carried out.  Results show that the quality of underwater images is improved significantly
